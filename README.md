@@ -1,12 +1,12 @@
 # API-MAN
 
-API-MAN ist ein Open-Source Postman Clone
+API-MAN is an open source Postman clone
 
-## Technologie
+## Technology
 
 * Golang
 
 
-## Architektur
+## Architecture
 
 
